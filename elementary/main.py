@@ -1,4 +1,4 @@
 from personal.person import Person
 
-p = Person("Elya", "Belova", "elya.belova@maiil.com")
-
+if __name__ == '__main__':
+    p = Person("Elya", "Belova", "none", "89161301887", "elya.belova@maiil.com")
